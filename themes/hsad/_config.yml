@@ -2,7 +2,7 @@ avatar: /images/avatar.jpg
 sidebar_background: /images/background.png
 accent_color: '#496b8c'
 accent_soft: '#dce8f0'
-brand_name: hsad
+brand_name: Cattleya's Blog
 brand_subtitle: 写一点留给夜里的话
 sidebar_note: 用很少的话介绍自己，剩下的交给文章。
 hero:
@@ -25,7 +25,7 @@ menu:
     path: /about/
 social:
   - name: GitHub
-    url: https://github.com/yourname
+    url: https://github.com/Perr7n
   - name: E-Mail
     url: mailto:you@example.com
 footer:
